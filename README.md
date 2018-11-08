@@ -10,3 +10,11 @@ Spider for collecting data of smartphones of different brands from mysmartprice.
    	    |-->Directory(BrandName)
    	    	|-->spiders
    	    		|-->mobile.py
+
+### Example spider:
+	
+	Root
+	|-->acer
+		|-->acer
+			|-->spiders
+				|-->mobile.py

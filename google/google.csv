@@ -1,0 +1,11 @@
+device_name,display_size (inches),display_prot,height (inches),width (inches),depth (inches),weight (grams),os,b_no_of_camera(s),backcam (megapixels),f_no_of_camera(s),frontcam (megapixels),internal (GB),ram (GB),expandable (GB),battery (mAh),chipset,architecture,cores,proc_make,frequency (MHz),gpu,price (INR)
+Google Pixel 2 XL ,6.0,Corning Gorilla Glass 5,6.2,3.0,0.3,175.0,"Android OS, v8.0 (Oreo)",1,12.2,1,8,64.0,4.0,0,3520,Snapdragon 835,Kryo,8.0,Qualcomm MSM8998,2.3+1.9,Adreno 540,"59,990"
+Google Pixel 3 XL ,6.0,,,,,,"Android OS, v8.0 (Oreo)",1,12,1,8,64.0,6.0,0,3600,Snapdragon 845,Cortex A53,8.0,Qualcomm,1.6,,78990
+Google Pixel 3 ,5.5,Corning Gorilla Glass 5,,,,,"Android OS, v8.0 (Oreo)",1,12,1,8,64.0,6.0,0,3000,Snapdragon 835,Cortex A53,8.0,Qualcomm,2.3,Adreno 540,69900
+Google Pixel XL 128GB ,5.5,,,,,,"Android OS, v7.1 (Nougat)",1,12.3,1,8,128.0,4.0,0,3450,Snapdragon 821,Kryo,4.0,Qualcomm MSM8996,2.1+1.6,Adreno 530,"48,000"
+Google Pixel 2 128GB ,5.0,Corning Gorilla Glass 5,5.7,2.7,0.3,143.0,"Android OS, v8.0 (Oreo)",1,12.2,1,8,128.0,4.0,0,2700,Snapdragon 835,Kryo,8.0,Qualcomm MSM8998,2.3+1.9,Adreno 540,"52,898"
+Google Pixel 2 XL 128GB ,6.0,Corning Gorilla Glass 5,6.2,3.0,0.3,175.0,"Android OS, v8.0 (Oreo)",1,12.2,1,8,128.0,4.0,0,3520,Snapdragon 835,Kryo,8.0,Qualcomm MSM8998,2.3+1.9,Adreno 540,"57,999"
+Google Pixel 128GB ,5.0,,5.6,2.7,0.3,143.0,"Android OS, v7.1 (Nougat)",1,12.3,1,8,128.0,4.0,0,2770,Snapdragon 821,Kryo,4.0,Qualcomm MSM8996,2.1+1.6,Adreno 530,"59,990"
+Google Pixel ,5.0,Corning Gorilla Glass 4,5.6,2.7,0.3,143.0,"Android OS, v7.1 (Nougat)",1,12.3,1,8,32.0,4.0,0,2770,Snapdragon 821,Kryo,4.0,Qualcomm MSM8996,2.1+1.6,Adreno 530,"57,000"
+Google Pixel XL ,5.5,,,,,,"Android OS, v7.1 (Nougat)",1,12.3,1,8,32.0,4.0,0,3450,Snapdragon 821,Kryo,4.0,Qualcomm MSM8996,2.1+1.6,Adreno 530,"39,500"
+Google Pixel 2 ,5.0,Corning Gorilla Glass 5,5.7,2.7,0.3,143.0,"Android OS, v8.0 (Oreo)",1,12.2,1,8,64.0,4.0,0,2700,Snapdragon 835,Kryo,8.0,Qualcomm MSM8998,2.3+1.9,Adreno 540,"52,500"

@@ -1,0 +1,12 @@
+device_name,display_size (inches),display_prot,height (inches),width (inches),depth (inches),weight (grams),os,b_no_of_camera(s),backcam (megapixels),f_no_of_camera(s),frontcam (megapixels),internal (GB),ram (GB),expandable (GB),battery (mAh),chipset,architecture,cores,proc_make,frequency (MHz),gpu,price (INR)
+YU Yunique 2 ,5.0,Corning Gorilla Glass 3,5.7,2.8,0.3,159.0,Android 7.0 (Nougat),1,13,1,5,16.0,2.0,64,2500,MT6737,Cortex-A53,4.0,Mediatek,1.3,Mali-T720,"4,999"
+YU Yunique 2 Plus ,5.0,,,,,,"Android OS, v7.0 (Nougat)",1,13,1,5,16.0,3.0,64,2500,MT6737,Cortex A53,4.0,MediaTek,1.3,,"5,999"
+YU Yureka Black ,5.0,Corning Gorilla Glass 3,5.5,2.7,0.3,152.0,"Android OS, v6.0 (Marshmallow)",1,13,1,8,32.0,4.0,64,3000,Snapdragon 430,Cortex-A53,8.0,Qualcomm,1.4,Adreno 505,"8,499"
+YU Yureka S ,5.2,Corning Gorilla Glass 3,,,,172.0,"Android OS, v5.1 (Lollipop)",1,13,1,5,16.0,3.0,256,3000,Snapdragon 615,Cortex A53,8.0,Qualcomm,1.7,Adreno 405,"6,349"
+YU Yunique Plus ,4.7,,,,,,"Android OS, v5.1 (Lollipop)",1,8,1,2,8.0,2.0,32,2000,Snapdragon 410,Cortex A53,4.0,Qualcomm,1.2,Adreno 306,"4,999"
+YU Yuphoria ,5.0,,,,,143.0,"Android OS, v5.0.2 (Lollipop)",1,8,1,5,16.0,2.0,32,2230,Snapdragon 410,Cortex-A53,4.0,Qualcomm MSM8916,1.2,Adreno 306,"4,999"
+YU Yunique ,4.7,,5.3,2.6,0.3,128.0,"Android OS, v5.1.1 (Lollipop)",1,8,1,2,8.0,1.0,32,2000,Snapdragon 410,Cortex-A53,4.0,Qualcomm MSM8916,1.2,Adreno 306,"6,999"
+YU Yunicorn ,5.5,,6.0,2.9,0.3,172.0,"Android OS, v5.1.1 (Lollipop)",1,13,1,5,32.0,4.0,128,4000,,Cortex-A53,8.0,,1.8+1.0,Mali-T860MP2,"7,549"
+YU Yureka 2 ,5.5,,,,,,"Android OS, v6.0 (Marshmallow)",1,16,1,8,64.0,4.0,0,3930,Snapdragon 625,Cortex A53,8.0,Qualcomm,2.0,,"9,999"
+YU Yureka Plus ,5.5,,,,,,"Android OS, v4.4.4 (KitKat)",1,13,1,5,16.0,2.0,32,2500,Snapdragon 615,Cortex-A53,8.0,Qualcomm MSM8939,1.7+1.0,Adreno 405,"6,000"
+YU Yureka Note ,6.0,,,,,,"Android OS, v5.1 (Lollipop)",1,13,1,8,16.0,3.0,256,4000,,Cortex-A53,8.0,Mediatek MT6753,1.5,Mali-T720MP3,"7,094"

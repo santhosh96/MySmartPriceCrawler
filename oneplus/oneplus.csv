@@ -1,0 +1,13 @@
+device_name,display_size (inches),display_prot,height (inches),width (inches),depth (inches),weight (grams),os,b_no_of_camera(s),backcam (megapixels),f_no_of_camera(s),frontcam (megapixels),internal (GB),ram (GB),expandable (GB),battery (mAh),chipset,architecture,cores,proc_make,frequency (MHz),gpu,price (INR)
+OnePlus 2 ,5.5,Corning Gorilla Glass 3,5.9,2.9,0.3,175,"Android OS, v5.1 (Lollipop)",1,13,1,5,64,4,0,3300,Snapdragon 810,Cortex-A53,8,Qualcomm MSM8994,1.56+1.82,Adreno 430,24999
+OnePlus 5T Star Wars Limited Edition ,6.01,Corning Gorilla Glass 5,6.1,2.9,0.2,162,"Android OS, v7.1.1 (Nougat)",2,20+16,1,16,128,8,0,3300,Snapdragon 835,Kryo,8,Qualcomm,2.4+1.9,Adreno 540,38999
+OnePlus 5 128GB ,5.5,Corning Gorilla Glass 5,6,2.9,0.2,153,"Android OS, v7.1.1 (Nougat)",2,16+20,1,16,128,8,0,3300,Snapdragon 835,Kryo,8,Qualcomm MSM8998,2.4+1.9,Adreno 540,37999
+OnePlus 5T 6GB RAM ,6.01,Corning Gorilla Glass 5,6.1,2.9,0.2,162,"Android OS, v7.1.1 (Nougat)",2,20+16,1,16,64,6,0,3300,Snapdragon 835,Kryo,8,Qualcomm,2.4+1.9,Adreno 540,32999
+OnePlus 6 ,6.28,Corning Gorilla Glass 5,6.1,2.9,0.3,177,"Android OS, v8.1 (Oreo)",2,16+20,1,16,64,6,0,3300,Snapdragon 845,Kryo 385,8,Qualcomm,2.8+1.7,Adreno 630,34999
+OnePlus 6 256GB ,6.28,Corning Gorilla Glass 5,6.1,2.9,0.3,177,"Android OS, v8.1 (Oreo)",2,16+20,1,16,256,8,0,3300,Snapdragon 845,Kryo 385,8,Qualcomm,2.8+1.7,Adreno 630,43999
+OnePlus 3T ,5.5,Corning Gorilla Glass 4,6,2.9,0.2,158,"Android OS, v6.0 (Marshmallow)",1,16,1,16,64,6,0,3400,Snapdragon 821,Kryo,4,Qualcomm MSM8996,2.3+1.6,Adreno 530,23490
+OnePlus One ,5.5,Corning Gorilla Glass 3,6,2.9,0.3,162,"Android OS, v4.4.2 (KitKat)",1,13,1,5,64,3,0,3100,Snapdragon 801,Krait 400,4,Qualcomm MSM8974AC,2.5,Adreno 330,19999
+OnePlus X ,5,Corning Gorilla Glass 3,5.5,2.7,0.2,138,"Android OS, v5.1.1 (Lollipop)",1,13,1,8,16,3,128,2525,Snapdragon 801,Krait 400,4,Qualcomm,2.3,Adreno 330,16999
+OnePlus 6 128GB ,6.28,Corning Gorilla Glass 5,6.1,2.9,0.3,177,"Android OS, v8.1 (Oreo)",2,16+20,1,16,128,8,0,3300,Snapdragon 845,Kryo 385,8,Qualcomm,2.8+1.7,Adreno 630,39999
+OnePlus 6 Marvel Avengers Edition ,6.28,Corning Gorilla Glass 5,6.1,2.9,0.3,177,"Android OS, v8.1 (Oreo)",2,16+20,1,16,256,8,0,3300,Snapdragon 845,Kryo 385,8,Qualcomm,2.8+1.7,Adreno 630,44999
+OnePlus 5T ,6.01,Corning Gorilla Glass 5,6.1,2.9,0.2,162,"Android OS, v7.1.1 (Nougat)",2,20+16,1,16,128,8,0,3300,Snapdragon 835,Kryo,8,Qualcomm,2.4+1.9,Adreno 540,32999

@@ -1,0 +1,12 @@
+device_name,display_size (inches),display_prot,height (inches),width (inches),depth (inches),weight (grams),os,b_no_of_camera(s),backcam (megapixels),f_no_of_camera(s),frontcam (megapixels),internal (GB),ram (GB),expandable (GB),battery (mAh),chipset,architecture,cores,proc_make,frequency (MHz),gpu,price (INR)
+Microsoft LUMIA 430 Dual SIM ,4.0,,4.7,2.4,0.4,127.0,Microsoft Windows v8.1,1,2,2,0+3,8.0,1.0,128,1500,Snapdragon 200,Cortex-A7,2.0,Qualcomm MSM8210 ,1.2,Adreno 302,"4,399"
+Microsoft Lumia 735 ,4.7,Corning Gorilla Glass 3,5.3,2.7,0.3,134.0,Windows 10,1,5,1,5,16.0,1.0,128,2200,Snapdragon 400,Cortex-A7,4.0,Qualcomm,1.2,Adreno 305,"15,400"
+Microsoft Lumia 640XL ,5.7,,6.2,3.2,0.3,171.0,Microsoft Windows 8.1,1,13,1,5,8.0,1.0,128,3000,Snapdragon 400,Cortex-A7,4.0,Qualcomm MSM8226,1.2,Adreno 305,"14,999"
+Microsoft Lumia 532 ,4.0,,4.6,2.5,0.4,136.0,Microsoft Windows v8.1,1,5,2,0+3,8.0,1.0,128,1560,Snapdragon 200,Cortex-A7,4.0,Qualcomm MSM8212 ,1.2,Adreno 302,"5,921"
+Microsoft Lumia 435 Dual SIM ,4.0,,4.6,2.5,0.4,134.1,"Windows OS, v8.1",1,2,2,0+3,8.0,1.0,128,1560,Snapdragon 200,Cortex-A7,2.0,Qualcomm MSM8210,1.2,Adreno 302,"5,121"
+Microsoft Lumia 550 ,4.7,,5.3,2.6,0.3,141.9,Microsoft Windows 10,1,5,1,2,8.0,1.0,256,2100,Snapdragon 210,Cortex-A7,4.0,Qualcomm MSM8909,1.1,Adreno 304,"8,499"
+Microsoft Lumia 640 ,5.0,,5.5,2.8,0.3,145.0,Microsoft Windows 8.1,1,8,1,1,8.0,1.0,128,2500,Snapdragon 400,Cortex-A7,4.0,Qualcomm MSM8926,1.2,Adreno 305,"7,999"
+Microsoft Lumia 950 ,5.2,,5.7,2.8,0.3,150.0,Microsoft Windows 10,1,20,1,5,32.0,3.0,200,3000,Snapdragon 808,Cortex-A57,6.0,Qualcomm,1.82+1.44,Adreno 418,"47,990"
+Microsoft Lumia 535 ,5.0,Corning Gorilla Glass 3,5.5,2.8,0.3,146.0,Microsoft Windows Phone 8.1,1,5,1,5,8.0,1.0,128,1905,Snapdragon 200,Cortex-A7,4.0,Qualcomm,1.2,Adreno 302,"6,147"
+Microsoft Lumia 540 Dual SIM ,5.0,,5.6,2.9,0.3,152.0,Microsoft Windows Phone 8.1 with Lumia Denim,1,8,1,5,8.0,1.0,128,2200,Snapdragon 200,Cortex-A7,4.0,Qualcomm,1.2,Adreno 302,"7,649"
+Microsoft Lumia 640 XL ,5.7,,6.2,3.2,0.3,171.0,Microsoft Windows Phone 8.1 with Lumia Denim,1,13,1,5,8.0,1.0,128,3000,Snapdragon 400,Cortex-A7,4.0,Qualcomm MSM8226,1.2,Adreno 305,"12,600"

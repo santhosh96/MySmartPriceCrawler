@@ -1,0 +1,5 @@
+device_name,display_size (inches),display_prot,height (inches),width (inches),depth (inches),weight (grams),os,b_no_of_camera(s),backcam (megapixels),f_no_of_camera(s),frontcam (megapixels),internal (GB),ram (GB),expandable (GB),battery (mAh),chipset,architecture,cores,proc_make,frequency (MHz),gpu,price (INR)
+LeEco Le 2 64GB ,5.5,Corning Gorilla Glass 3,5.9,2.9,0.3,153.0,"Android OS, v6.0 (Marshmallow)",1,16,1,8,64.0,3.0,0,3000,Snapdragon 652,Cortex-A72,8.0,Qualcomm,1.4+1.8,Adreno 510,"7,999"
+LeEco Le 2 ,5.5,Corning Gorilla Glass 3,5.9,2.9,0.3,153.0,"Android OS, v6.0 (Marshmallow)",1,16,1,8,32.0,3.0,0,3000,Snapdragon 652,Cortex-A72,8.0,Qualcomm,1.4+1.8,Adreno 510,"7,999"
+LeEco Le Max 2 ,5.7,Corning Gorilla Glass 3,6.1,3.0,0.3,185.0,"Android OS, v6.0 (Marshmallow)",1,21,1,8,32.0,4.0,0,3100,Snapdragon 820,Kryo,4.0,Qualcomm,2.15+1.6,Adreno 530,"17,024"
+LeEco Le 1s ,5.5,Corning Gorilla Glass 3,5.9,2.9,0.3,169.0,"Android OS, v5.0 (Lollipop)",1,13,1,5,32.0,3.0,0,3000,MT6795 Helio X10,Cortex-A53,8.0,Mediatek,2.2,PowerVR G6200,"7,999"

@@ -1,0 +1,147 @@
+device_name,display_size (inches),display_prot,height (inches),width (inches),depth (inches),weight (grams),os,b_no_of_camera(s),backcam (megapixels),f_no_of_camera(s),frontcam (megapixels),internal (GB),ram (GB),expandable (GB),battery (mAh),chipset,architecture,cores,proc_make,frequency (MHz),gpu,price (INR)
+Lava Z91 ,5.7,,5.9,2.8,0.3,147,"Android OS, v7.0 (Nougat)",1,13,1,8,32,3,128,3000,MT6739,,4,Mediatek,1.3,,9790
+Lava KKT Jumbo 2 ,2.8,,,,,,,1,0.3,0,,,,32,4000,,,,,,,1800
+Lava KKT 28 Star ,2.8,,,,,104,,1,1.3,0,,,,32,1800,,,,,,,1536
+Lava Iris Fuel F1 ,5,,5.5,2.8,0.3,148,"Android OS, v5.1 (Lollipop)",1,8,1,2,8,2,32,4000,,Cortex-A7,4,Mediatek MT6580,1.3,Mali-400MP2,8700
+Lava X41 Plus ,5,,5.7,2.8,0.3,156,"Android OS, v6.0 (Marshmallow)",1,8,1,5,32,2,32,2500,,,4,,1.3,,6399
+Lava A97 ,5,,5.7,2.8,0.3,160,"Android OS, v6.0 (Marshmallow)",1,5,1,5,8,1,32,2350,SC9832A,Cortex A7,4,Spreadtrum,1.3,Mali-400 MP2,4599
+Lava A68 ,4.5,,,,,,"Android OS, v6.0 (Marshmallow)",1,5,2,0+3,8,1,32,1750,,,4,,1.2,,3149
+Lava FLAIR E2 ,3.5,,4.4,2.4,0.4,,"Android OS, v4.4 (KitKat)",1,2,2,0+3,0.5,0.25,32,1400,,,,,1,,2222
+Lava Arc 101 ,2.4,,,,,,,1,0.3,0,,,,32,1000,,,,,,,1090
+Lava Spark i7 ,2.8,,,,,,,1,1.3,0,,,,32,1200,,,,,,,1350
+Lava Arc One Plus ,2.4,,,,,,,1,0.3,0,,,,32,1000,,,,,,,1255
+Lava X19 ,5,,5.7,2.8,0.3,,"Android OS, v6.0 (Marshmallow)",1,8,1,5,8,2,32,2200,,,4,,1.3,,4199
+Lava KKT 34 Power ,2.4,,,,,,,1,1.3,0,,,,32,2000,,,,,,,1499
+Lava Prime X ,1.8,,,,,,,1,1.3,0,,,,32,800,,,,,,,1389
+Lava Captain N1 Lite ,1.8,,,,,,,0,,0,,,,32,800,,,,,,,760
+Lava A79 ,5.5,,6.1,3,0.3,134,"Android OS, v5.1 (Lollipop)",1,5,1,2,8,1,32,2200,,,4,,1.2,,3990
+Lava A97 IPS ,5,,5.7,2.8,0.3,160,"Android OS, v6.0 (Marshmallow)",1,5,1,5,8,1,32,Lava,,,4,,1.3,,4850
+Lava A73 ,5,,5.7,2.8,0.3,,"Android OS, v6.0 (Marshmallow)",1,5,1,5,8,1,32,2000,,,4,,1.2,,4110
+Lava A51 ,4.5,,5.3,2.6,0.3,,"Android OS, v6.0 (Marshmallow)",1,5,2,0+3,8,0.5,32,1750,,,4,Spreadtrum SC7731C,1.2,,3500
+Lava KKT 40 Power Plus ,2.4,,,,,,,1,1.3,0,,,,16,3000,,,,,,,1420
+Lava Spark I8 ,2.8,,,,,,,1,1.3,0,,,,32,1200,,,,,,,1449
+Lava KKT Pearl ,2.4,,,,,,,1,0.3,0,,,,32,1750,,,,,,,1200
+Lava Captain 4i ,1.8,,4.4,1.8,0.5,57,,1,0.3,0,,,,32,800,,,,,,,828
+Lava Iris X5 4G ,5,,,,,128,"Android OS, v5.1 (Lollipop)",1,13,1,8,16,2,32,2500,,Cortex A53,4,,1.3,Mali-T720 MP2,9999
+Lava A44 ,4,Scratch-Resistant Glass,4.8,2.5,0.4,141,"Android OS, v7.0 (Nougat)",1,5,1,2,8,1,32,1500,SC9832,,4,Spreadtrum,1.3,,3659
+Lava Captain N1 ,1.8,,,,,,,1,0.3,0,,,,32,800,,,,,,,796
+Lava Z10 ,5,,,,,,"Android OS, v6.0 (Marshmallow)",1,8,1,5,16,2,128,2620,,,4,MediaTek,1.3,,6599
+Lava Z80 ,5,,5.8,2.8,0.3,136,"Android OS, v7.0 (Nougat)",1,8,1,5,16,3,128,2500,MT6737,Cortex-A53,4,Mediatek,1.3,Mali-T720MP2,7470
+Lava Z91E ,5.45,,5.9,2.8,0.3,147,"Android OS, v8.1 (Oreo)",1,13,1,5,32,3,128,3000,,,4,,1.5,,9999
+Lava X28+ ,5.5,,,,,,"Android OS, v6.0 (Marshmallow)",1,8,1,5,8,1,32,2600,,,4,,1.3,,7199
+Lava X28 Plus ,5.5,,,,,,"Android OS, v6.0 (Marshmallow)",1,8,1,5,8,1,32,2600,,,4,,1.3,,5490
+Lava A71 ,5,,5.7,2.8,0.3,141,Android v5.1 (Lollipop),1,5,1,2,8,1,32,2500,,,4,,1.5,,5400
+Lava A76 ,4.5,,5.7,2.8,0.3,135,"Android OS, v5.1 (Lollipop)",1,5,2,0+3,8,1,32,1850,,,4,,1.5,,5000
+Lava Iris Fuel F2 ,5,,5.6,2.8,0.4,155,"Android OS, v5.1 (Lollipop)",1,5,2,0+3,8,0.5,32,3000,,Cortex-A7,4,,1.3,,4522
+Lava Iris Fuel 50 ,5,,5.7,2.8,0.3,160,"Android OS, v4.4 (KitKat)",1,8,1,2,8,1,32,3000,,,4,,1.3,,4500
+Lava Flair S1 ,4.5,,,,,143,"Android OS, v5.1 (Lollipop)",1,3.2,2,0+3,8,0.5,32,1750mAh,,,2,,1.3,,4349
+Lava Iris Atom 2 ,4.5,,,,,,"Android OS, v4.4.2 (KitKat)",1,5,2,0+3,8,0.5,32,1750,,,4,,1.3,,3457
+Lava A59 ,4.5,,5.2,2.6,0.3,155,"Android OS, v5.1 (Lollipop)",1,5,2,0+3,4,0.5,32,1750,,,4,,1.3,,3390
+Lava A32 ,4,,4.9,2.5,0.4,92,"Android OS, v4.4 (KitKat)",1,2,2,0+3,0.5,0.25,32,1500,,,1,,1,,2936
+Lava KKT Quadra ,2.4,,4.9,2.1,0.5,138,,1,0.3,0,,,,32,1800,,,,,,,2830
+Lava Metal 28 ,2.8,,,,,118,,1,1.3,0,,,,32,1200,,,,,,,2399
+Lava KKT 48 ,2.8,,,,,123,,1,0.3,0,,,,32,2800,,,,,,,1799
+Lava KKT Ultra Plus ,2.4,,,,,,,1,0.3,0,,,,16,1750,,,,,,,1500
+Lava Spark Icon ,2.8,,,,,,,1,1.3,0,,,,8,1150,,,,,,,1499
+Lava Metal 24 ,2.4,,,,,,,1,1.3,0,,,,32,1000,,,,,,,1479
+Lava Spark 284 ,2.8,,,,,,,1,1.3,0,,,,32,1450,,,,,,,1479
+Lava KKT Connect Plus ,2.4,,,,,,,1,0.3,0,,,,16,1750,,,,,,,1436
+Lava KKT Prime 2 ,1.8,,,,,,,1,0.3,0,,,,8,1400,,,,,,,1425
+Lava Arc One ,2.4,,,,,,,1,0.3,0,,,,8,1000,,,,,,,1369
+Lava ARC 01 ,2.4,,,,,,,1,0.3,0,,,,8,1000,,,,,,,1364
+Lava KKT Star ,2.4,,,,,98,,0,,0,,,,16,1800mAh,,,,,,,1259
+Lava KKT Trio X ,1.8,,,,,,,1,0.3,0,,,,32,1750,,,,,,,1249
+Lava KKT Alpha Plus ,2.4,,,,,,,1,1.3,0,,,,16,1800,,,,,,,1229
+Lava Iris Atom 3 ,5,,5.6,2.8,0.3,150,"Android OS, v5.1 (Lollipop)",1,5,1,2,8,0.5,32,2000,,,4,,1.3,,4800
+Lava Iris Atom 2X ,4.5,,5.2,2.6,0.3,130,"Android OS, v5.1 (Lollipop)",1,5,2,0+3,8,1,32,2000mAh,,,4,,1.3,,4799
+Lava Flair P3 ,4,,,,,115,"Android OS, v5.1 (Lollipop)",1,2,2,0+3,8,0.5,32,1400,,,2,,1.3,,4500
+Lava Iris 354 ,3.5,,4.6,2.4,0.4,103,"Android OS, v4.2 (Jelly Bean)",1,2,2,0+3,2,0.25,32,1400,,Cortex-A7,2,,1,Mali-400,3999
+Lava Iris X1 Atom ,4,,,,,120,"Android OS, v4.4 (KitKat)",1,5,2,0+3,4,0.5,32,1750,,,4,,1.2,,3999
+Lava Iris 450 Color Plus 8GB ,4.5,,,,,,"Android OS, v4.2 (Jelly Bean)",1,5,2,0+3,8,1,32,1800,,,2,,1.3,,3999
+Lava Iris X1 Atom S ,4,,,,,112,"Android OS, v4.4 (Kitkat)",1,5,2,0+3,8,0.5,32,1400,,,1,,1,,3869
+Lava Iris Icon ,5,,5.6,2.7,0.3,143,"Android OS, v4.4 (KitKat)",1,13,1,5,16,2,32,2500,,Cortex-A7,4,,1.3,,9849
+Lava Iris X8 8GB ,5,,5.6,2.8,0.3,160,"Android OS, v4.4 (KitKat)",1,8,1,3,8,1,32,2500,,Cortex-A7,8,,1.4,,8500
+Lava X11 ,5,,5.7,2.8,0.3,141,"Android OS, v5.1 (Lollipop)",1,8,1,5,8,2,32,2500,,,4,,1.5,,7980
+Lava EG932 ,5,,,,,160,"Android OS, 4.3 (Jelly Bean)",1,5,2,0+3,4,1,64,2000,,,4,,1.2,,6999
+Lava A72 ,5,,5.7,2.8,0.3,142,"Android OS, v5.1 (Lollipop)",1,5,1,5,8,1,32,2500,,,4,,1.5,,6407
+Lava Iris X1 Grand ,5,,5.6,2.8,0.3,152,"Android OS, v4.4.2 (KitKat)",1,8,1,2,8,1,32,2200,,Cortex-A7,4,,1.3,Mali-400MP2,6299
+Lava A88 ,5,,5.7,2.8,0.3,157,"Android OS, v5.1.1 (Lollipop)",1,5,1,2,4,0.5,32,2000,,,4,,1.5,,5399
+Lava Iris Atom X ,4,,4.9,2.5,0.3,102.6,"Android OS, v4.4.2 (KitKat)",1,2,2,0+3,0.5,0.25,32,1400,,,1,,1,,3550
+Lava A50 ,4,,4.8,2.5,0.3,,"Android OS, v6.0 (Marshmallow)",1,5,2,0+3,8,0.5,32,1550,,,4,,1.2,,3300
+Lava A48 ,4,,,,,116,"Android OS, v5.1 (Lollipop)",1,2,2,0+3,4,0.5,32,1300,,,4,,1.3,,3299
+Lava Iris Fuel F1 Mini ,4,,,,,,"Android OS, v4.4 (KitKat)",1,5,2,0+3,8,0.5,32,2000,,,1,,1,,4399
+Lava Spark Curvy ,2.8,,,,,,,1,1.3,0,,,,8,1400,,,,,,,2999
+Lava Flair P2 ,4,,,,,,"Android OS, v4.4 (KitKat)",1,2,2,0+3,0.5,0.25,32,1300,,,2,,1.3,,2980
+Lava Flair P1i ,4,,,,,,"Android OS, v4.4 (KitKat)",1,2,2,0+3,0.5,0.25,32,1400,,,,,1,,2936
+Lava Spark Nex1 ,2.8,,,,,,,1,2,0,,,,16,1800,,,,,,,2199
+Lava KKT Cevadra ,2.4,,,,,,,1,0.3,0,,,,32,1000,,,,,,,1999
+Lava Arc Grand ,2.8,,,,,95,,1,1.3,0,,,,8,1200,,,,,,,1799
+Lava KKT Uno Plus ,2.4,,,,,82,,1,1.3,0,,,,8,1700,,,,,,,1650
+Lava Spark Icon2 ,2.8,,,,,,,1,1.3,0,,,,32,1150,,,,,,,1650
+Lava Arc Dzire ,2.8,,,,,73,,1,0.3,0,,,,16,1000,,,,,,,1523
+Lava Spark Icon X ,2.8,,,,,119,,1,0.3,0,,,,32,1150,,,,,,,1515
+Lava Arc 225 ,2.4,,,,,68,,1,0.3,0,,,,32,1000,,,,,,,1225
+Lava Arc 12 Plus ,2.4,,,,,88,,1,0.3,0,,,,8,1000,,,,,,,1200
+Lava Arc Lite Plus ,1.8,,,,,,,1,0.3,0,,,,8,900,,,,,,,1188
+Lava Arc Selfie ,2.4,,,,,,,1,0.3,2,0+3,,,32,1000,,,,,,,1112
+Lava ARC Glam ,1.8,,,,,163,,1,0.3,0,,,,8,800,,,,,,,979
+Lava Bond K1 ,1.8,,,,,,,1,0.3,0,,,,32,1750,,,,,,,929
+Lava Arc Magic Plus ,1.8,,,,,,,1,0.3,0,,,,32,800,,,,,,,899
+Lava A55 ,4,,4.8,2.5,0.3,,"Android OS, v6.0 (Marshmallow)",1,5,2,0+3,8,1,32,1550,,,4,,1.2,,10999
+Lava Iris X10 ,5,,5.5,2.7,0.3,133,Android v5.1 (Lollipop),1,13,1,5,16,3,32,2900,,Cortex-A53,4,,1.3,Mali-T720MP2,10650
+Lava X38 2GB RAM ,5,,,,,162,"Android OS, v6.0 (Marshmallow)",1,8,1,2,8,2,32,4000,,Cortex A53,4,MediaTek MT6735P,1,Mali-T720 MP2,7999
+Lava X46 ,5,,5.6,2.8,0.3,,"Android OS, v5.1 (Lollipop)",1,8,1,5,8,2,32,2500,,,4,,1.3,,7199
+Lava V2 ,5,Asahi Dragontrail Glass,5.5,2.7,0.3,128,"Android OS, v6.0 (Marshmallow)",1,13,1,8,16,3,32,2500,MediaTek MT6735,Cortex-A53,4,,1.3,Mali-T720MP2,6999
+Lava V2s ,5,,,,,129,"Android OS, v5.1 (Lollipop)",1,8,1,8,8,2,32,2500,,,4,,1,,6857
+Lava X50 Plus ,5.5,,6.1,2.8,0.3,155,"Android OS, v6.0 (Marshmallow)",1,8,1,5,32,2,32,2800,,,4,,1.3,,6789
+Lava X50 ,5.5,,6.1,2.8,0.3,,"Android OS, v5.1 (Lollipop)",1,8,1,5,8,2,32,2800,,,4,,1.3,,6360
+Lava X38 ,5,,,,,,"Android OS, v6.0 (Marshmallow)",1,8,1,2,8,1,32,4000,,,4,,1,,6360
+Lava P7 ,5,,5.6,2.8,0.3,153.1,"Android OS, v5.1 (Lollipop)",1,5,1,2,8,1,32,2000,,,4,,1.2,,6300
+Lava X17 ,5,,5.7,2.8,0.3,,"Android OS, v6.0 (Marshmallow)",1,8,1,5,8,1,32,2350,,,4,,1.3,,6099
+Lava X28 ,5.5,,6.1,3,0.3,,"Android OS, v6.0 (Marshmallow)",1,8,1,5,8,1,32,2600,,,4,,1.3,,5901
+Lava Iris X1 Selfie ,4.5,,,,,140,"Android OS, v5.1 (Lollipop)",1,8,1,5,8,1,32,2000,,Cortex A7,4,,1.3,Mali-400,5599
+Lava Magnum X604 ,6,,,,,207,"Android OS, v4.4 (KitKat)",1,8,1,2,8,1,32,2800,,,4,,1.2,,5599
+Lava X3 ,5,,5.6,2.8,0.3,142," Android OS, v5.1 (Lollipop)",1,8,1,5,8,2,32,2500,,,4,,1.3,,5999
+Lava Arc Grand 2 ,2.8,,,,,,,1,1.3,0,,,,32,1200,,,,,,,1750
+Lava KKT Mega ,2.8,,,,,113,,1,0.3,0,,,,32,1750,,,,,,,1700
+Lava KKT 40 Power ,2.4,,,,,,,1,0.3,0,,,,8,2700,,,,,,,1599
+Lava Spark One ,2.4,,,,,,,1,0.3,0,,,,32,1750,,,,,,,1387
+Lava KKT Curve ,2.4,,,,,96,,1,1.3,0,,,,32,1800,,,,,,,1329
+Lava KKT Star 2 ,2.4,,,,,,,1,0.3,0,,,,32,1800,,,,,,,1324
+Lava KKT iPRO ,1.8,,,,,,,1,0.3,0,,,,32,1750,,,,,,,974
+Lava KKT 9s ,1.8,,4.4,1.8,0.5,136,,1,0.3,0,,,,32,1750,,,,,,,980
+Lava Arc 105 ,1.7,,,,,68,,1,0.3,0,,,,32,800,,,,,,,890
+Lava Flair Z1 ,5,,,,,160,"Android OS, v5.0 (Lollipop)",1,5,1,2,8,1,32,2000,,,4,,1.3,,4950
+Lava P7 Plus ,5,,,,,,"Android OS, v6.0 (Marshmallow)",1,8,1,5,8,1,32,2500,,Cortex A7,4,MediaTek MT6580,1.3,Mali-400 MP,4839
+Lava A67 ,5,,,,,152,"Android OS, v5.1 (Lollipop)",1,5,1,2,4,0.5,32,2000,,,4,,1.2,,3999
+Lava A82 ,5,,5.6,2.8,0.3,,"Android OS, v5.1 (Lollipop)",1,5,1,2,8,1,32,2000,,,4,,1.2,,3899
+Lava KKT Trio Plus ,2.8,,,,,,,1,1.3,0,,,,32,2800,,,,,,,1900
+Lava A56 ,5,,,,,,"Android OS, v4.4 (KitKat)",1,5,2,0+3,4,0.5,32,1850,,,2,,1.3,,2699
+Lava Spark Curvy Plus ,2.8,,,,,,,1,1.3,0,,,,32,1750,,,,,,,1699
+Lava KKT Trio ,2.8,,,,,127,,1,1.3,0,,,,16,2800,,,,,,,1589
+Lava KKT Jumbo ,2.8,,,,,,,1,0.3,0,,,,32,4000,,,,,,,1490
+Lava Captain 9s ,1.8,,,,,,,1,0.3,0,,,,32,1750,,,,,,,959
+Lava Captain K1 Plus ,1.8,,,,,,,1,0.3,0,,,,32,1750,,,,,,,935
+Lava V5 ,5.5,,,,,153.2,"Android OS, v5.1 (Lollipop)",1,13,1,8,16,3,32,3000,,,4,,1.3,,12000
+Lava Iris X9 ,5.5,,,,,,"Android OS, v5.0 (Lollipop)",1,13,1,8,16,2,32,2500,,Cortex A7,4,,1.3,Mali-400 MP2,10300
+Lava Iris X8 ,5,,5.6,2.8,0.3,160,"Android OS, v4.4.2 (KitKat)",1,8,1,3,16,2,32,2500,,Cortex-A7,8,,1.4,,7999
+Lava Pixel V2 ,5,,5.5,2.7,0.3,128,"Android OS, v5.1 (Lollipop)",1,13,1,8,16,2,32,2500,,Cortex-A53,4,,1.3,Mali-T720MP2,7399
+Lava Pixel V1 ,5.5,,5.9,3,0.3,135,"Android OS, v5.1.1 (Lollipop)",1,13,1,8,32,2,32,2560,,,4,,1.3,Mali-400MP2,7350
+Lava X81 ,5,,5.6,2.8,0.3,,"Android OS, v6.0.1 (Marshmallow)",1,13,1,5,16,3,64,2700,,,4,Mediatek MT6735,1.3,,7249
+Lava Iris X5 ,5,,5.6,2.8,0.3,134,"Android OS, v4.4 (KitKat)",1,8,1,5,8,1,32,2100,,,4,,1.2,,4999
+Lava Iris Atom ,4,,4.9,2.4,0.3,110,"Android OS, v5.1 (Lollipop)",1,5,2,0+3,8,0.5,32,1550,,,4,,1.3,,4000
+Lava ARC Grace ,2.8,,,,,,,1,0.3,0,,,,32,1300,,,,,,,9990
+Lava CG142J ,2.4,,,,,92,,1,0.3,0,,,,8,1400,,,,,,,2000
+Lava Pixel V2 Plus ,5,,,,,,"Android OS, v5.1 (Lollipop)",1,13,1,5,16,2,32,2500,,,4,,1.3,,6669
+Lava Captain K2 ,1.8,,,,,,,1,0.3,0,,,,32,1750,,,,,,,899
+Lava A97 Plus ,5,,5.7,2.8,0.3,160,"Android OS, v7.0 (Nougat)",1,8,1,5,16,2,32,2350,,,4,,1.3,,4999
+Lava KKT 28i ,2.8,,,,,,,1,1.3,0,,,,16,1800,,,,,,,1399
+Lava Z90 ,5.2,Corning Gorilla Glass 3,5.8,2.8,0.3,159,"Android OS, v7.0 (Nougat)",2,8+2,1,8,32,3,64,2750,MT6737,Cortex-A53,4,Mediatek,1.3,Mali-T720MP2,8999
+Lava A77 ,4.5,,5.3,2.6,0.3,140,"Android OS, v6.0 (Marshmallow)",1,5,1,5,8,1,64,2000,SC9832,Cortex A7,4,Spreadtrum,1.3,Mali-400,3990
+Lava A97 2GB RAM ,5,,,,,,"Android OS, v6.0 (Marshmallow)",1,5,1,5,8,2,32,2350,,,4,,1.3,,4892
+Lava Z10 (3GB RAM) ,5,,5.6,2.8,0.3,148,"Android OS, v6.0 (Marshmallow)",1,8,1,5,16,3,128,2620,MT6737,Cortex-A53,4,Mediatek,1.3,Mali-T720MP2,6599
+Lava Z70 ,5,,5.6,2.7,0.3,140,"Android OS, v7.0 (Nougat)",1,8,1,5,16,2,128,2500,MT6737,Cortex A53,4,MediaTek,1.3,Mali-T720 MP2,6950
+Lava Z25 ,5.5,,5.9,3,0.3,163,"Android OS, v6.0 (Marshmallow)",1,13,1,8,32,4,128,3020,MT6750,Cortex-A53,8,Mediatek,1.5,Mali-T860MP2,13499
+Lava Z50 ,4.5,,,,,,"Android OS, v8.1 (Oreo)",1,5,1,5,8,1,128,2500,,,4,MediaTek,1.1,,4399
+Lava A52 ,4,,,,,,"Android OS, v5.1 (Lollipop)",1,2,2,0+3,4,0.5,32,1200,,,2,,1.3,,2499
+Lava Z60 ,5,,5.6,2.8,0.3,149,"Android OS, 7.0 (Nougat)",1,5,1,5,16,1,64,2500,MT6737M,Cortex-A53,4,Mediatek,1.1,Mali-T720MP2,4985

@@ -1,0 +1,20 @@
+device_name,display_size (inches),display_prot,height (inches),width (inches),depth (inches),weight (grams),os,b_no_of_camera(s),backcam (megapixels),f_no_of_camera(s),frontcam (megapixels),internal (GB),ram (GB),expandable (GB),battery (mAh),chipset,architecture,cores,proc_make,frequency (MHz),gpu,price (INR)
+ZTE Blade V7 Lite ,5.0,,5.6,2.7,0.3,148.0,"Android OS, v6.0 (Marshmallow)",1,13,1,8,16.0,3.0,256,2500,MT6735P,Cortex-A53,4.0,Mediatek,1.0,Mali-T720MP2,"5,200"
+ZTE Q301C ,5.0,,,,,,"Android OS, v4.3 (Jelly Bean)",1,5,2,0+3,4.0,1.0,32,1650,Snapdragon,Cortex A5,4.0,Qualcomm MSM8625,1.2,Adreno 203,"7,990"
+ZTE D286 ,2.4,,,,,85.0,,1,1.3,0,,,,16,1000,,,,,,,"2,249"
+ZTE MTS M131 ,1.8,,,,,68.0,,0,,0,,,,,1000,,,,,,,"1,859"
+ZTE Tata Docomo S400 ,1.8,,,,,,,1,0.3,0,,0.015625,,4,1000,,,,,,,"1,619"
+ZTE Blade S6 ,5.0,,5.6,2.7,0.3,154.0,"Android OS, v5.0 (Lollipop)",1,13,1,5,16.0,2.0,64,2400,Snapdragon 615,Cortex-A53,8.0,Qualcomm MSM8939 ,1.5+1.0,Adreno 405,"14,999"
+ZTE Star 1 ,5.0,,5.4,2.7,0.2,130.0,"Android OS, v4.4 (KitKat)",1,8,1,5,16.0,2.0,64,2300,Snapdragon 400,Cortex-A7,4.0,Qualcomm MSM8928,1.6,Adreno 305,"4,999"
+ZTE Blade A910 ,5.5,,5.9,2.9,0.3,158.0,"Android OS, v6.0 (Marshmallow)",1,13,1,8,16.0,2.0,64,2540,MT6735,Cortex A53,4.0,MediaTek,1.3,Mali-T720 MP2,"5,410"
+ZTE Blade A2 Plus ,5.5,,,,,,"Android OS, v6.0 (Marshmallow)",1,13,1,8,32.0,4.0,128,5000,,Cortex A53,8.0,,1.5,,"10,497"
+ZTE Axon M ,5.2,Corning Gorilla Glass 5,5.9,2.8,0.4,230.0,"Android OS, v7.1.2 (Nougat)",1,20,0,,64.0,4.0,0,3180,Snapdragon 821,Kryo,4.0,Qualcomm MSM8996,2.4+1.6,Adreno 530,15990
+ZTE Nubia Z11 Mini S ,5.2,Corning Gorilla Glass,5.7,2.8,0.3,158.0,"Android OS, v6.0 (Marshmallow)",1,23,1,13,64.0,4.0,200,3000,Snapdragon 625,Cortex A53,8.0,Qualcomm,2.0,Adreno 506,"19,990"
+ZTE Blade V7 Lite 2GB RAM ,5.0,,5.6,2.7,0.3,153.0,"Android OS, v6.0 (Marshmallow)",1,8,1,8,16.0,2.0,64,2500,MT6735P,Cortex A53,4.0,MediaTek,1.0,Mali-T720 MP2,"8,997"
+ZTE Blade V7 Max ,5.5,,,,,,"Android OS, v6.0.1 (Marshmallow)",1,16,1,8,,,256,3000,,,8.0,,1.8,,"9,500"
+ZTE Blade A110 ,4.0,,4.9,2.5,0.3,134.0,"Android OS, v5.1 (Lollipop)",1,5,1,2,8.0,1.0,32,1600,MTK6735,,4.0,MediaTek,1.0,,"2,999"
+ZTE Nubia V18 ,6.1,,6.2,2.9,0.3,170.0,"Android OS, v7.1 (Nougat)",1,13,1,8,64.0,4.0,128,4000,Snapdragon 625,Cortex-A53,8.0,Qualcomm MSM8953,2.0,Adreno 506,15999
+ZTE Nubia Z17 Mini 128GB ,5.2,Corning Gorilla Glass,5.7,2.8,0.3,155.0,"Android OS, v6.0.1 (Marshmallow)",1,13,1,16,128.0,6.0,256,2950,Snapdragon 652,Cortex-A72,8.0,Qualcomm MSM8976 Pro,1.9+1.4,Adreno 510,"18,999"
+ZTE AXON mini ,5.2,,5.6,2.7,0.3,140.0,"Android OS, v5.1.1 (Lollipop)",1,13,1,8,32.0,3.0,128,2800,Snapdragon 616,Cortex-A53,8.0,Qualcomm MSM8939v2,1.5+1.2,Adreno 405,"7,699"
+ZTE Nubia N2 ,5.5,,,,,,"Android OS, v6.0 (Marshmallow)",1,13,1,16,64.0,4.0,200,5000,Helio P10,,8.0,MediaTek,,,"8,610"
+ZTE Nubia Z17 Mini ,5.2,Corning Gorilla Glass,5.7,2.8,0.3,155.0,"Android OS, v6.0.1 (Marshmallow)",1,13,1,16,64.0,4.0,256,2950,Snapdragon 652,Cortex-A72,8.0,Qualcomm MSM8976 Pro,1.9+1.4,Adreno 510,"12,999"

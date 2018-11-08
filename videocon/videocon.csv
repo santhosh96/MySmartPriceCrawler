@@ -1,0 +1,63 @@
+device_name,display_size (inches),display_prot,height (inches),width (inches),depth (inches),weight (grams),os,b_no_of_camera(s),backcam (megapixels),f_no_of_camera(s),frontcam (megapixels),internal (GB),ram (GB),expandable (GB),battery (mAh),chipset,architecture,cores,proc_make,frequency (MHz),gpu,price (INR)
+Videocon Metal Pro 2 ,5.0,,,,,,"Android OS, v7.0 (Nougat)",1,13,1,5,16.0,2.0,128,2000,MT6737,Cortex A53,4.0,MediaTek,1.2,Mali-T720 MP2,"4,280"
+Videocon Dost V1QA ,1.8,,,,,,,1,0.3,0,,,,8,1000,,,,,,,748
+Videocon Infinium Z45 Dazzle ,4.5,,,,,,"Android OS, v4.4 (Kitkat)",1,5,1,2,8.0,1.0,32,1600,,Cortex A7,4.0,Spreadtrum SC7731G,1.2,Mali-400 MP2,"5,900"
+Videocon Krypton V50FG ,5.0,,,,,180.0,"Android OS, v5.0 (Lollipop)",1,13,1,5,16.0,2.0,32,2200,,,4.0,,1.3,,"4,999"
+Videocon Infinium Z45Q star ,4.5,,,,,,"Android OS, v4.4 (KitKat)",1,5,1,2,8.0,1.0,32,1600,,,4.0,,1.3,,"4,444"
+Videocon Graphite1 V45ED ,4.5,,,,,130.0,"Android OS, v6.0 (Marshmallow)",1,5,2,3+2,8.0,1.0,64,2000,,Cortex A53,4.0,MediaTek MT6735M,1.3,Mali-T720 MP2,"3,449"
+Videocon Infinium Z30 Aire ,3.5,,,,,,"Android OS, v4.4 (KitKat)",1,2,2,0+3,0.5,0.25,32,1400,,,1.0,,1.0,,"2,148"
+Videocon V1DD ,1.8,,,,,,,1,1.3,0,,,,16,1800,,,,,,,860
+Videocon Dost 2 V1RA ,1.8,,,,,,,1,0.3,0,,,,32,1000,,,,,,,849
+Videocon V1388 ,1.8,,,,,,,1,0.3,0,,,,8,1000,,,,,,,999
+Videocon Dost V1GD ,1.8,,,,,,,1,0.3,0,,,,16,1600,,,,,,,989
+Videocon Virat V3BC ,2.8,,,,,,,1,1.3,0,,,,16,1800,,,,,,,949
+Videocon V1423N ,1.8,,,,,90.0,,1,1.3,0,,,,16,1800,,,,,,,929
+Videocon Dost 1 ,1.8,,,,,,,1,0.3,0,,0.0625,0.03125,32,1000,,,,,,,900
+Videocon Bazoomba V2DA ,2.4,,,,,,,1,0.3,0,,,,16,1800,,,,,,,899
+Videocon V2FA ,2.4,,,,,,,1,0.3,0,,,,16,1800,,,,,,,899
+Videocon V1BB ,1.8,,,,,,,1,0.3,0,,0.5,,16,1000,,,,,,,868
+Videocon Dost V1BA ,1.8,,,,,,,1,0.3,0,,,,16,1000,,,,,,,799
+Videocon Infinium Z41 Lite Plus ,4.0,,,,,,"Android OS, v4.4 (KitKat)",1,3.2,2,0+3,4.0,0.5,32,1400,,,1.0,,1.0,,"2,800"
+Videocon Z40 Lite Plus ,4.0,,,,,,"Android OS, v4.4 (Kitkat)",1,3.2,2,0+3,4.0,0.5,64,1450,,,1.0,,1.0,,"2,635"
+Videocon Graphite V45DB ,4.5,,,,,,"Android OS, v4.4 (Kitkat)",1,5,1,2,8.0,0.5,32,1600,,Cortex A7,4.0,Spreadtrum SC7731,1.2,Mali-400 MP2,"2,600"
+Videocon Infinium Z30 Lite ,3.5,,,,,,"Android OS, v4.4 (Kitkat)",1,2,2,0+3,0.5,0.25,32,1400,,,,,1.0,,"2,419"
+Videocon Z30 Pace ,3.5,,,,,,"Android OS, v4.4 (KitKat)",1,2,2,0+3,0.5,0.25,16,1250,,,1.0,,1.0,,"2,105"
+Videocon V35CB9 ,3.5,,,,,,"Android OS, v4.4 (KitKat)",1,0.3,2,0+3,,,32,1300,,,,,,,"1,999"
+Videocon V3AB ,2.8,,,,,,,1,1.3,0,,,,16,1500,,,,,,,"1,891"
+Videocon Z55 Delite ,5.0,,,,,,"Android OS, v4.4 (KitKat)",1,8,1,5,8.0,1.0,32,2200,,Cortex A7,8.0,MediaTek MT6592M,1.4,Mali-450 MP4,"6,099"
+Videocon Z52 Inspire ,5.0,,,,,,"Android OS, v4.4 (Kitkat)",1,5,1,2,8.0,1.0,32,2000,,,4.0,,1.2,,"5,800"
+Videocon Z51 Nova Plus ,5.0,,,,,,"Android OS, v4.4 (Kitkat)",1,8,1,5,8.0,1.0,4,2000,,,4.0,,1.2,,"5,774"
+Videocon Infinium Z51Q Star ,5.0,,,,,,"Android OS, v4.4 (KitKat)",1,5,1,2,8.0,1.0,32,2000,,Cortex A7,4.0,Spreadtrum SC7731,1.2,Mali-400 MP2,"5,480"
+Videocon Infinium Z51 Punch ,5.0,,,,,,"Android OS, v4.4 (KitKat)",1,8,1,5,8.0,1.0,32,3000,,,4.0,,1.2,,"5,299"
+Videocon Graphite BD4 ,4.5,,,,,,"Android OS, v5.1 (Lollipop)",1,5,1,2,8.0,1.0,32,2400,,,4.0,,1.2,,"4,999"
+Videocon Krypton V50FA ,5.0,,,,,,"Android OS, v5.1 (Lollipop)",1,5,1,2,8.0,1.0,32,2200,,Cortex A53,4.0,MediaTek MT6735P,1.3,Mali-T760 MP2,"4,599"
+Videocon Graphite V45GD ,4.5,,,,,,"Android OS, v6.0 (Marshmallow)",1,5,1,2,8.0,1.0,64,2000,,,4.0,MediaTek MT6735M,1.0,Mali T720 GPU,"4,459"
+Videocon Graphite V45BD ,4.5,,,,,,"Android OS, v5.1 (Lollipop)",1,5,1,2,8.0,1.0,32,2400,,Cortex A7,4.0,Spreadtrum SC7731,1.2,Mali-400 MP2,"4,230"
+Videocon Krypton V50GH ,5.0,,,,,,"Android OS, v5.1 (Lollipop)",1,5,2,0+3,8.0,0.5,32,1800,Spreadtrum SC7731,Cortex A7,4.0,,1.3,Mali-400 MP2,"4,200"
+Videocon V40DF1 ,4.0,,,,,,"Android OS, v4.4 (Kitkat)",1,5,1,2,8.0,1.0,16,1350,,,4.0,,1.2,,"4,198"
+Videocon Krypton V50DA ,5.0,,,,,,"Android OS, v5.1 (Lollipop)",1,5,1,2,8.0,1.0,32,3000,,Cortex A7,4.0,MediaTek MT6580,1.3,Mali-400 MP,"3,970"
+Videocon V40HD1 ,4.0,,,,,120.0,"Android OS, v4.4 (Kitkat)",1,3.2,2,0+3,0.5,0.25,32,1400,,,1.0,,1.0,,"3,790"
+Videocon V15 Plus ,3.5,,,,,," Android OS, v4.2 (Jellybean)",1,3.2,2,0+3,0.5,0.25,16,1400,,,2.0,,1.0,,"3,350"
+Videocon Graphite DD ,4.5,,,,,,"Android OS, v5.1 (Lollipop)",1,5,1,2,8.0,1.0,32,1600,,,4.0,,1.2,,"3,099"
+Videocon Infinium Z45 Amaze ,4.5,,,,,,"Android OS, v4.4 (KitKat)",1,2,2,0+3,8.0,1.0,32,1600,,,4.0,,1.2,,"2,999"
+Videocon V1573 ,2.8,,,,,,,1,1.3,0,,,,16,1800,,,,,,,"1,640"
+Videocon VS Mate ,3.5,,,,,,,1,1.3,0,,,,32,1300,,,,,,,"1,500"
+Videocon V2EB ,2.4,,,,,,,1,0.3,0,,0.5,,16,3000,,,,,,,"1,295"
+Videocon V1555N ,2.4,,,,,,,1,1.3,0,,,,16,3000,,,,,,,"1,290"
+Videocon VS Topaz ,2.4,,,,,,,1,0.3,0,,,,32,2200,,,,,,,"1,249"
+Videocon V3CB ,2.8,,,,,,,1,1.3,0,,,,32,1800,,,,,,,"1,199"
+Videocon V1561 ,2.8,,,,,,,1,1.3,0,,,,16,1500,,,,,,,"1,123"
+Videocon V1552 ,2.4,,,,,,,1,1.3,0,,,,16,1800,,,,,,,"1,099"
+Videocon Raga 2 ,2.4,,5.7,3.3,2.5,,,1,0.3,0,,,,32,1000,,,,,,,"1,030"
+Videocon V1393 ,1.8,,,,,,,1,0.3,0,,,,16,1000,,,,,,,783
+Videocon Raga1 V2AB ,2.4,,,,,,,1,1.3,0,,,,16,1000,,,,,,,699
+Videocon Videocon Cube 3 ,5.0,,,,,,"Android OS, v6.0 (Marshmallow)",1,13,1,5,32.0,3.0,64,3000,,Cortex A53,4.0,MediaTek MT6735,1.3,Mali-T720 MP2,"8,249"
+Videocon Z55 Dash ,5.0,,,,,,"Android OS, v4.4 (Kitkat)",1,8,1,5,8.0,1.0,32,2200,,Cortex A7,8.0,MediaTek MT6592M,1.4,Mali-450 MP4,"4,800"
+Videocon Starr 100 ,4.0,,,,,," Android OS, v7.0 (Nougat)",1,5,2,1+3,8.0,1.0,32,1800,,,4.0,,1.3,,"3,299"
+Videocon Metal Pro 1 ,5.0,,,,,,"Android OS, v7.0 (Nougat)",1,8,2,3+2,8.0,1.0,128,2450,MT6737,Cortex A53,4.0,MediaTek,1.25,Mali-T720 MP2,"4,999"
+Videocon Krypton 3 V50JG ,5.0,,,,,,"Android OS, v6.0 (Marshmallow)",1,13,1,5,16.0,2.0,64,3000,,Cortex A53,4.0,,1.3,Mali-T720 MP2,"6,949"
+Videocon Challenger V40UE ,4.0,,,,,,"Android OS, v5.1 (Lollipop)",1,3.2,2,0+3,8.0,0.5,32,1400,,,4.0,,1.3,,"3,199"
+Videocon Delite 21 16GB ,5.0,,,,,,"Android OS, v6.0 (Marshmallow)",1,8,1,2,16.0,2.0,32,3000,,Cortex A53,4.0,MediaTek MT6735M,1,Mali-T720 MP2,"4,990"
+Videocon Challenger V40CF1 ,4.0,,,,,,"Android OS, v4.4 (KitKat)",1,1.3,2,0+3,8.0,1.0,64,1300,,,4.0,,1.2,,"2,660"
+Videocon Zest Flash ,3.5,,,,,100.0,"Android OS, v4.4 (KitKat)",1,2,2,0+3,0.5,0.25,32,1400,,,,,1.0,,"1,999"
+Videocon Krypton 30 ,5.0,,,,,,"Android OS, v6.0 (Marshmallow)",1,8,1,2,16.0,3.0,64,3000,,,4.0,,1.0,,"5,989"

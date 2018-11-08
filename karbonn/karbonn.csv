@@ -1,0 +1,170 @@
+device_name,display_size (inches),display_prot,height (inches),width (inches),depth (inches),weight (grams),os,b_no_of_camera(s),backcam (megapixels),f_no_of_camera(s),frontcam (megapixels),internal (GB),ram (GB),expandable (GB),battery (mAh),chipset,architecture,cores,proc_make,frequency (MHz),gpu,price (INR)
+Karbonn A40 4G ,4.0,,,,,,"Android OS, v7.0 (Nougat)",1,5,2,0+3,8.0,1.0,,1400,,,4.0,,1.3,,"2,990"
+Karbonn Titanium K9 Smart ,5.0,,,,,,"Android OS, v4.4 (Kitkat)",1,3.2,2,1+3,8.0,0.5,32,2300,,Cortex A7,2.0,,1.2,Mali-400 MP,"3,499"
+Karbonn Titanium 3D-Plex ,5.0,,,,,160.0,"Android OS, v6.0 (Marshmallow)",1,3.2,2,0+3,8.0,0.5,64,2300,,,4.0,,1.2,,"3,200"
+Karbonn Sound Wave K451 Plus ,2.4,,4.5,2.0,0.5,,,1,1.3,0,,,0.0625,8,1800,,,,,,,"1,468"
+Karbonn K9 Kavach 4G ,5.0,,5.7,2.9,0.3,161.0,"Android OS, v7.0 (Nougat)",1,5,1,5,8.0,1.0,32,2300,,,4.0,,1.2,,"4,590"
+Karbonn Indian 9 ,4.0,,3.9,1.9,1.1,145.0,"Android OS, v7.0 (Nougat)",1,5,1,2,8.0,1.0,32,1300,,,4.0,Spreadtrum,1.3,,"3,009"
+Karbonn K-Phone 1 ,2.4,,,,,112.0,,1,1.3,0,,,,16,1400,,,,,,,"1,128"
+Karbonn K49 ,2.4,,,,,,,1,0.3,0,,,,16,1450,,,,,,,839
+Karbonn A41 Power ,4.0,,,,,130.0,"Android OS, v7.0 (Nougat)",1,2,2,0+3,8.0,1.0,32,2300,,,4.0,,1.3,,"2,840"
+Karbonn Aura Note 2 ,5.5,,4.5,3.0,0.3,164.0,"Android OS, v (7.0 Nougat)",1,13,1,5,16.0,2.0,128,2900,MediaTek MT6737M,Cortex-A52,4.0,MediaTek ,1.25,Mali-T720 MP2,"5,294"
+Karbonn Jumbo K9 ,2.4,,4.5,1.9,0.6,112.0,,1,1.3,0,,,,16,1800,,,,,,,"1,080"
+Karbonn Titanium Machfive ,5.0,,5.6,0.3,2.8,159.0,"Android OS, v5.0 (Lollipop)",1,8,1,5,16.0,2.0,32,2200,,,4.0,,1.3,,"3,999"
+Karbonn K33 Ultra ,1.8,,,,,,,1,0.3,0,,,,16,600,,,,,,,739
+Karbonn Aura Note Play ,6.0,,6.3,3.3,0.3,214.0,"Android OS, v7.0 (Nougat)",1,8,1,5,16.0,2.0,32,3300,,,4.0,,1.3,,"5,799"
+Karbonn A6 Turbo ,4.5,,,,,,"Android OS, v4.4 (KitKat)",1,5,2,1+3,4.0,0.5,32,1500,,,2.0,,1.3,,"3,749"
+Karbonn Yuva 2 ,5.0,,,,,170.0,"Android OS, v7.0 (Nougat)",1,5,2,3+2,16.0,2.0,128,2250,,,4.0,,1.2,,"4,499"
+Karbonn K9 Smart 1GB RAM ,5.0,,,,,146.0,"Android OS, v5.0.1 (Lollipop)",1,3.2,2,1+3,8.0,1.0,32,2300,MediaTek MT6572,Cortex A7,2.0,,1.2,Mali-400 MP,"3,239"
+Karbonn K-Flip ,2.4,,,,,,,1,0.3,0,,0.0625,0.03125,8,800,,,,,,,"1,249"
+Karbonn K310N ,1.8,,,,,,,1,0.3,0,,,,MicroSD,800,,,,,,,649
+Karbonn K2 Boom Box ,1.8,,,,,,,1,0.3,0,,,,8,1000,,,,,,,629
+Karbonn K9 Smart Yuva ,5.0,,5.7,2.8,0.4,174.0,"Android OS, v7.0, (Nougat)",1,5,1,2,8.0,1.0,32,2300,,,4.0,,1.3,,"3,769"
+Karbonn K451 Power ,2.4,,,,,,,1,0.3,0,,,,16,3000,,,,,,,"1,128"
+Karbonn Frames S9 ,5.2,,5.8,2.8,0.3,139.0,"Android OS, v7.0 (Nougat)",1,8,1,8,16.0,2.0,64,2900,MT6737M,Cortex A53,4.0,MediaTek,1.2,Mali-T720 MP1,"5,999"
+Karbonn K9 Smart 4G ,5.0,,,,,105.0,"Android OS, v6.0 (Marshmallow)",1,5,1,5,8.0,1.0,32,2300,,,4.0,,1.2,,"3,999"
+Karbonn A40 INDIAN ,4.0,,4.8,2.5,0.3,118.0,"Android OS, v7.0 (Nougat)",1,2,2,0+3,8.0,1.0,32,1400,,,4.0,,1.3,,"2,599"
+Karbonn K9 Staar ,2.4,,,,,180.0,,1,0.3,0,,,,8,1000,,,,,,,999
+Karbonn Titanium Jumbo ,5.0,,,,,,"Android OS, v7.0 Nougat",1,13,1,8,16.0,2.0,64,4000,,,4.0,,1.3,,"5,350"
+Karbonn A1 Plus Champ ,3.5,,,,,,Android v4.4 (KitKat),1,3,2,0+3,0.5,0.25,32,1300,,,2.0,,1.0,,"2,222"
+Karbonn K7 Rock ,2.4,,,,,,,1,1.3,0,,,,32,3000,,,,,,,"2,150"
+Karbonn Alfa A104 ,2.8,,,,,,"Android OS, v4.2 (Jelly Bean)",1,2,2,0+3,0.25,0.125,32,1100,,,1.0,,1.0,,"2,000"
+Karbonn K90 Mashall ,2.4,,,,,110.0,,1,1.3,0,,0.03125,,16,1700,,,,,,,"1,644"
+Karbonn K444 Shakti ,2.4,,,,,,,1,0.3,0,,,,32,4000,,,,,,,"1,600"
+Karbonn K888 ,2.4,,,,,,,1,1.3,0,,,,16,1450,,,,,,,"1,566"
+Karbonn K595 ,2.4,,,,,95.0,,1,0.3,2,0+3,0.0625,0.03125,16,1800,,,,,,,"1,400"
+Karbonn K40 ,2.4,,,,,112.0,,1,1.3,0,,,,16,2800,,,,,,,"1,369"
+Karbonn K41 Ultra ,2.4,,,,,,,1,0.3,0,,,,Yes,1800,,,,,,,"1,350"
+Karbonn K29 Boombox ,2.4,,,,,,,1,0.3,0,,,,32,1800,,,,,,,"1,298"
+Karbonn K130 Fun ,1.8,,,,,,,1,0.3,0,,,,8,800,,,,,,,990
+Karbonn K89 ,1.8,,,,,,,1,0.3,0,,,,16,1700,,,,,,,990
+Karbonn K48 ,1.8,,,,,,,1,0.3,0,,,,16,1800,,,,,,,969
+Karbonn K150 Ultra ,1.8,,,,,,,1,0.3,0,,,,8,800,,,,,,,966
+Karbonn K107 ,1.8,,,,,,,1,0.3,0,,,,16,800,,,,,,,950
+Karbonn K106S ,1.8,,,,,,,1,0.3,0,,,,8,800,,,,,,,920
+Karbonn K3 Boommax ,2.4,,,,,,,1,0.3,0,,,,32,1800,,,,,,,919
+Karbonn Kphone Mashaal ,2.4,,,,,,,1,1.3,0,,,,16,1800,,,,,,,909
+Karbonn K130 Plus ,1.8,,,,,92.0,,1,0.3,0,,,,8,800,,,,,,,899
+Karbonn K19 Rock ,1.8,,,,,,,1,0.3,0,,,,16,1750,,,,,,,839
+Karbonn K95 star ,2.4,,,,,,,1,0.3,0,,,,8,2200,,,,,,,"1,450"
+Karbonn K240 ,2.4,,,,,,,1,2,0,,,,8,1600,,,,,,,"1,450"
+Karbonn T9 ,2.4,,,,,,,1,1.3,0,,,,16,950,,,,,,,"1,400"
+Karbonn K Phone Joy ,2.4,,,,,,,1,0.3,0,,,,16,1700,,,,,,,"1,390"
+Karbonn K-Champ 6 ,2.4,,,,,,,1,1.3,0,,,,16,1750,,,,,,,"1,390"
+Karbonn Alfa A92 Plus ,4.0,,,,,,"Android OS, v4.4 (Kitkat)",1,3.2,2,1+3,0.5,0.25,32,1300,,,1.0,,1.0,,"2,749"
+Karbonn A108 Plus ,3.5,,,,,115.0,"Android OS, v4.4 (KitKat)",1,2,2,0+3,0.5,0.25,32,1100,,,1.0,,1.0,,"2,700"
+Karbonn A109 3G ,4.0,,,,,108.0,"Android OS, v4.4 (KitKat)",1,2,2,0+3,4.0,0.5,32,1300,,,1.0,,1.0,,"2,699"
+Karbonn A108 ,3.5,,,,,,"Android OS, v4.2 (Jelly Bean)",1,2,2,0+3,0.5,0.25,32,1500,,,1.0,,1.0,,"2,590"
+Karbonn K4000 Plus ,2.8,,,,,,,1,0.3,0,,,,16,4000,,,,,,,"2,500"
+Karbonn A106 ,3.5,,,,,,"Android OS, v4.2 (Jelly Bean)",1,2,2,0+3,0.5,0.25,32,1200,,,2.0,,1.0,,"2,472"
+Karbonn Smart A202 ,3.5,,,,,,"Android OS, v4.4 (Kitkat)",1,2,2,0+3,0.5,0.25,32,1100,,,1.0,,1.0,,"2,450"
+Karbonn S35 ,4.5,,,,,140.0,"Android OS, v5.1 (Lollipop)",1,5,1,2,8.0,1.0,32,1850,,,4.0,,1.2,,"4,275"
+Karbonn A5 Star 8GB ,4.0,,,,,130.0,"Android OS, v2.3 (Gingerbread)",1,5,2,0+3,8.0,0.5,32,1100,,,4.0,,1.2,,"4,190"
+Karbonn Titanium S21 ,4.5,,,,,118.0,"Android OS, v4.4 (Kitkat)",1,3.2,2,1+3,4.0,0.5,32,1600,,,4.0,,1.2,,"4,090"
+Karbonn Titanium S109 ,4.5,,,,,,"Android OS, v4.4 (Kitkat)",1,5,1,2,8.0,0.5,32,1600,,,4.0,,1.2,,"3,999"
+Karbonn Titanium High 2 S203 ,5.0,,,,,178.0,"Android OS, v4.4 (KitKat)",1,5,2,3+2,8.0,0.5,32,3000,,,4.0,,1.2,Mali-400,"3,999"
+Karbonn Titanium S310 Machone Plus ,4.7,,,,,136.0,"Android OS, v5.0 (Lollipop)",1,8,1,5,8.0,2.0,32,1800,,,4.0,,1.3,,"6,650"
+Karbonn Titanium Pop S315 ,5.0,,,,,165.0,"Android OS, v5.0 (Lollipop)",1,8,1,2,8.0,1.0,32,2000,,,4.0,,1.0,,"6,048"
+Karbonn Aura ,5.0,,,,,,"Android OS, v4.4 (Kitkat)",1,5,1,2,8.0,0.5,32,2000,,,4.0,,1.2,,"5,999"
+Karbonn Titanium Octane ,5.0,,5.7,2.8,0.3,,"Android OS, v4.4 (KitKat)",1,13,1,5,16.0,1.0,32,2000,,Cortex-A7,8.0,Mediatek MT6592,1.7,Mali-450MP4,"8,499"
+Karbonn S320 Titanium High Plus ,5.0,,,,,190.0,"Android OS, v4.4 (KitKat)",1,8,1,2,8.0,1.0,32,3000,,Cortex A7,4.0,,1.2,Mali-400 MP2,"5,900"
+Karbonn Aura 9 ,5.0,,,,,160.0,"Android OS, v4.4 (KitKat)",1,8,1,5,8.0,1.0,32,4000,,Cortex A7,4.0,Spreadtrum SC7731G,1.2,Mali-400 MP2,"5,899"
+Karbonn K9 Viraat ,5.5,,,,,,"Android OS, v6.0 (Marshmallow)",1,8,1,5,8.0,1.0,32,2800,,,4.0,,1.3,,"5,230"
+Karbonn Titanium Moghul ,5.0,,,,,156.0,"Android OS, v4.4 (KitKat)",1,8,2,3+2,8.0,1.0,32,2000,,Cortex A7,4.0,MediaTek MT6592,1.2,Mali-450 MP4,"4,999"
+Karbonn Titanium S200HD ,5.0,,,,,142.0,"Android OS, v4.4 (KitKat)",1,8,2,3+2,8.0,1.0,32,2600,,,4.0,,1.2,,"4,999"
+Karbonn Titanium Mach Two ,5.0,,5.4,2.7,0.2,112.0,"Android OS, v4.4 (KitKat)",1,8,1,8,8.0,1.0,32,1900,,Cortex-A7,8.0,,1.4,,"4,999"
+Karbonn A6 ,4.0,,5.0,2.5,0.4,114.0,"Android OS, v4.0 (Ice Cream Sandwich)",1,5,2,0+3,0.1015625,0.5,32,1450,,,,,1.0,,"4,700"
+Karbonn Titanium Delight S22 ,4.5,,,,,,"Android OS, v4.4 (KitKat)",1,5,2,0+3,4.0,0.5,32,1800,,,4.0,,1.2,,"4,590"
+Karbonn Aura 4G ,5.0,,,,,,"Android OS, v6.0 (Marshmallow)",1,8,1,5,8.0,1.0,32,2150,,,4.0,,1.3,,"4,500"
+Karbonn Titanium Wind W4 ,4.0,,4.9,2.5,0.4,,Microsoft Windows 8.1,1,5,2,0+3,4.0,0.5,32,1950,,,4.0,,1.2,,"4,499"
+Karbonn Titanium Desire S30 ,4.5,,,,,122.0,"Android OS, v4.4 (KitKat)",1,8,2,3+2,8.0,0.5,32,1800,,,4.0,,1.2,,"4,358"
+Karbonn Titanium S3 8GB ,5.0,,,,,,"Android OS, v4.4 (KitKat)",1,8,1,2,8.0,1.0,32,1800,,,4.0,,1.3,,"4,299"
+Karbonn K94 ,2.8,,,,,,,1,1.3,2,0+3,,,8,1400,,,,,,,"3,592"
+Karbonn Titanium S15 ,4.0,,,,,116.4,"Android OS, v4.4 (KitKat)",1,3.2,2,0+3,4.0,0.5,32,1500,,,4.0,,1.2,,"3,400"
+Karbonn Alfa A99 ,4.0,,,,,,"Android OS, v4.4 (Kitkat)",1,3.2,2,1+3,4.0,0.5,32,1400,,,2.0,,1.2,,"3,349"
+Karbonn Fashion Eye ,5.0,,,,,,"Android OS, v5.1 (Lollipop)",1,8,2,3+2,8.0,1.0,32,2000,,Cortex-A7,4.0,,1.3,,"3,150"
+Karbonn Titanium S15 Ultra ,4.0,,,,,,"Android OS, v4.4 (Kitkat)",1,3.2,2,0+3,4.0,0.5,32,1300,,,2.0,,1.3,,"3,099"
+Karbonn Alfa A90 ,4.0,,,,,,"Android OS, v4.4 (KitKat)",1,2,2,1+3,4.0,0.5,32,1400,,,1.0,,1.0,,"3,000"
+Karbonn A1 Champ Alfa ,3.5,,,,,105.0,"Android OS, v4.4 (KitKat)",1,3,2,0+3,0.5,0.5,32,1300,,,1.0,,1.2,,"2,999"
+Karbonn K42 ,2.4,,,,,92.0,,1,1.3,0,,32KB,,16,1000,,,,,,,"2,865"
+Karbonn Alfa 112 ,4.0,,,,,113.0,"Android OS, v4.2 (Jelly Bean)",1,2,2,0+3,0.5,0.25,32,1300,,,1.0,,1.0,,"2,391"
+Karbonn Alfa A110 ,5.0,,,,,,"Android OS, v4.4 (KitKat)",1,2,2,0+3,0.5,0.25,32,1300,,,1.0,,1.0,,"2,200"
+Karbonn K59 ,2.4,,,,,95.0,,1,1.3,0,,,,8,1500,,,,,,,"1,650"
+Karbonn K4000 ,2.4,,,,,,,1,1.3,0,,,,32,4000,,,,,,,"1,599"
+Karbonn K97 ,2.8,,,,,,,1,0.3,0,,,,8,1750,,,,,,,"1,590"
+Karbonn K111 Selfie ,2.4,,,,,,,1,1.3,2,1+3,,,16,1500,,,,,,,"1,575"
+Karbonn K55 Star ,2.4,,,,,,,1,1.3,0,,,,8,1500,,,,,,,"1,500"
+Karbonn K96 Plus ,2.4,,,,,,,1,1.3,0,,,,16,1800,,,,,,,"1,499"
+Karbonn K31 ,2.4,,,,,,,1,0.3,0,,,,16,1800,,,,,,,"1,490"
+Karbonn K41 ,2.4,,,,,,,1,0.3,0,,,,16,2800,,,,,,,"1,375"
+Karbonn K18 Jumbo ,2.4,,,,,,,1,0.3,0,,,,8,1800,,,,,,,"1,375"
+Karbonn K88 ,2.4,,,,,,,1,1.3,0,,,,16,1800,,,,,,,"1,310"
+Karbonn K Flame ,2.4,,,,,,,1,0.3,0,,,,16,1300,,,,,,,"1,200"
+Karbonn K113 Plus ,2.4,,,,,,,1,1.3,0,,,,16,1000,,,,,,,"1,199"
+Karbonn K21 Star ,2.4,,,,,,,1,1.3,0,,,,16,1000,,,,,,,"1,119"
+Karbonn K113 ,2.4,,,,,102.0,,1,1.3,0,,,,8,1000,,,,,,,"1,110"
+Karbonn Kphone 1 ,2.4,,4.5,1.9,0.4,112.0,,1,1.3,0,,,,16,1400,,,,,,,"1,109"
+Karbonn K595 Power ,2.4,,,,,,,1,0.3,0,,,,16,3000,,,,,,,"1,099"
+Karbonn K44 Plus ,1.8,,,,,,,1,0.3,0,,,,8,1800,,,,,,,"1,099"
+Karbonn K324N ,2.4,,,,,,,1,0.3,0,,,,16,1750,,,,,,,"1,099"
+Karbonn K250 ,2.4,,,,,99.0,,1,1.3,0,,,,16,800,,,,,,,"1,095"
+Karbonn K490 ,2.4,,,,,112.0,,1,0.3,0,,,,8,1800,,,,,,,"1,089"
+Karbonn K2s ,1.8,,,,,,,1,0.3,0,,,,8,1800,,,,,,,"1,046"
+Karbonn K334 Shine ,2.4,,,,,,,1,1.3,0,,,,32,1700,,,,,,,999
+Karbonn K142 ,1.8,,,,,,,1,0.3,0,,,,16,800,,,,,,,806
+Karbonn K5 Jumbo ,1.8,,,,,,,1,0.3,0,,,,16,1800,,,,,,,779
+Karbonn K46 LED ,1.8,,,,,,,1,0.3,0,,,,16,1750,,,,,,,749
+Karbonn K206 ,1.8,,,,,64.0,,1,0.3,0,,,,32,800,,,,,,,699
+Karbonn Titanium S5 Plus ,5.0,,5.4,2.7,0.3,104.0,"Android OS, v4.2 (Jelly Bean)",1,8,2,0+3,4.0,1.0,32,1800,,,4.0,,1.3,,"12,990"
+Karbonn Titanium S10 ,5.0,,,,,,"Android OS, v4.4 (KitKat)",1,8,1,2,4.0,1.0,32,1850,,,4.0,,1.3,,"6,000"
+Karbonn K9 Kavach 16GB ,5.0,,5.7,2.9,0.3,161.0,"Android OS, v7.0 (Nougat)",1,5,1,5,16.0,2.0,32,2300,,,4.0,,1.2,,"5,198"
+Karbonn Quattro L50 ,5.0,,,,,134.0,"Android OS, v5.1 (Lollipop)",1,13,1,5,16.0,2.0,32,2600,,,4.0,,1.3,,"4,999"
+Karbonn Titanium Dazzle 3 S204 ,5.0,,,,,143.0,"Android OS, v5.0 (Lollipop)",1,8,1,2,8.0,1.0,32,1750,,,4.0,,1.2,,"4,793"
+Karbonn Quattro L50 HD ,5.0,,,,,136.0,"Android OS, v5.1 (Lollipop)",1,13,1,5,16.0,2.0,32,2650,,Cortex A53,4.0,MediaTek MT6735,1.3,Mali-T720 MP2,"4,450"
+Karbonn K41 Power 4G ,4.0,,,,,130.0,"Android OS, v7.0 (Nougat)",1,2,2,0+3,8.0,1.0,32,2300,,,4.0,,1.3,,"4,444"
+Karbonn Machone Titanium S310 ,4.7,,,,,,"Android OS, v4.4 (KitKat)",1,8,1,5,8.0,1.0,32,1800,,,4.0,,1.3,,"4,399"
+Karbonn Titanium Dazzle S201 ,5.0,,,,,160.0,"Android OS, v4.4 (KitKat)",1,5,1,2,8.0,1.0,32,1850,,,4.0,,1.2,,"3,999"
+Karbonn K9 Smart ,5.0,,,,,146.3,"Android OS, v4.4 (KitKat)",1,3.2,2,1+3,8Gb,0.5,32,2300,,,2.0,,1.2,,"3,094"
+Karbonn A91 Storm ,4.0,,,,,117.0,"Android OS, v5.1 (Lollipop)",1,2,2,0+3,4.0,0.5,32,2200,,,4.0,,1.2,,"3,090"
+Karbonn K111 Superstar ,2.4,,,,,,,1,1.3,2,0+3,,,32,2700,,,,,,,"1,285"
+Karbonn K9 SPY ,2.4,,,,,,,1,1.3,0,,,,16,1750,,,,,,,"1,165"
+Karbonn K885 Metal ,2.8,,,,,,,1,0.3,0,,,,32,1800,,,,,,,"1,149"
+Karbonn k880 ,1.8,,,,,,,1,0.3,0,,,,16,800,,,,,,,"1,139"
+Karbonn K9 ,2.4,,,,,,,1,1.3,0,,,,16,1800,,,,,,,"1,079"
+Karbonn K9 Boss ,2.4,,,,,,,1,0.3,0,,,,32,1750,,,,,,,"1,199"
+Karbonn K105S ,1.8,,,,,,,1,0.3,0,,,,16,1050,,,,,,,990
+Karbonn K49 Rock ,2.4,,,,,,,1,0.3,0,,,,16,1750,,,,,,,989
+Karbonn K107 Star ,1.8,,,,,,,1,0.3,0,,,,32,800,,,,,,,960
+Karbonn K7 Power ,1.8,,,,,,,1,0.3,0,,,,16,2700,,,,,,,839
+Karbonn K490 Plus ,2.4,,,,,,,1,0.3,0,,,,16,1750,,,,,,,899
+Karbonn K45Plus Chota Jumbo ,1.8,,,,,,,1,0.3,0,,,,32,1700,,,,,,,822
+Karbonn K45 Plus ,2.4,,,,,,,1,1.3,0,,,,8,1500,,,,,,,799
+Karbonn K17 Rock ,1.8,,,,,,,1,0.3,0,,,,16,1750,,,,,,,729
+Karbonn K140 ,1.8,,,,,,,1,0.3,0,,,,8,1000,,,,,,,720
+Karbonn Jumbo 2 ,1.8,,,,,,,1,0.3,0,,,,16,1800,,,,,,,699
+Karbonn K1 Indian ,1.8,,,,,,,1,0.3,0,,,,16,1800,,,,,,,679
+Karbonn K140 Pop ,1.8,,,,,,,1,0.3,0,,,,16,1000,,,,,,,679
+Karbonn Titanium Mach One Plus ,4.7,,,,,136.0,"Android OS, v5.0 (Lollipop)",1,8,1,5,16.0,2.0,32,1800,,,4.0,,1.3,,"3,999"
+Karbonn Aura Power 4G Plus ,5.0,,,,,,"Android OS, v7.0 (Nougat)",1,5,1,5,16.0,1.0,32,4000,,,4.0,,1.3,,"5,689"
+Karbonn K9 Viraat 4G ,5.5,,,,,173.0,"Android OS, v6.0 (Marshmallow)",1,5,2,3+2,8.0,1.0,64,2800,,,4.0,,1.3,,"5,199"
+Karbonn quattro L52 ,5.0,,,,,143.0,"Android OS, v5.1.1 (Lollipop)",1,8,1,5,16.0,2.0,32,2250,,,4.0,MediaTek,1.3,,"5,150"
+Karbonn Titanium Vista 4G ,5.0,,,,,,"Android OS, v6.0 (Marshmallow)",1,8,1,5,8.0,1.0,32,2300,,,4.0,MediaTek MT6580,1.3,,"4,280"
+Karbonn Sparkle V ,4.5,,5.2,2.6,0.3,138.0,"Android OS, v4.4 (KitKat)",1,5,1,2,4.0,1.0,32,1700,,Cortex-A7,4.0,Mediatek MT6582,1.3,Mali-400MP2,"5,700"
+Karbonn K9 Smart Grand ,5.2,,,,,,"Android OS, v7.0 (Nougat)",1,8,1,5,8.0,1.0,32,2300,,,4.0,,1.3,,"4,899"
+Karbonn K9 Smart Selfie ,5.0,,,,,,"Android OS, v7.0 (Nougat)",1,8,1,5,8.0,1.0,32,2300,,,4.0,,1.1,,"4,099"
+Karbonn Aura Sleek 4G ,5.0,,,,,,"Android OS, v6.0 (Marshmallow)",1,5,1,2,8.0,1.0,32,2000,,,4.0,,1.25,,"3,999"
+Karbonn Titanium S205 ,5.0,,,,,,"Android OS, v5.1 (Lollipop)",1,8,1,2,16.0,2.0,32,2200,,,4.0,,1.2,,"3,999"
+Karbonn Aura Power ,5.0,,,,,177.0,"Android OS, v5.1 (Lollipop)",1,8,1,5,8.0,1.0,MicroSD,4000,,,4.0,,1.0,,"4,444"
+Karbonn K Phone 9 ,2.4,,,,,92.0,,1,1.3,0,,,,16,1000,,,,,,,"1,450"
+Karbonn A7 Turbo ,4.5,,5.2,2.6,0.4,165.0,Android OS. v6.0 (Marshmallow),1,2,2,0+3,8.0,0.5,32,1750,,,4.0,,1.2,,1299
+Karbonn Titanium Vista FHD ,5.0,,5.7,2.7,0.3,131.0,"Android OS, v6.0 (Marshmallow)",1,8,2,3+2,8.0,1.0,32,2300,SC3920,Cortex A7,4.0,Spreadtrum,1.3,,3590
+Karbonn K10 Star ,2.4,,,,,,,1,0.3,0,,,,16,1400,,,,,,,"1,300"
+Karbonn K9 Smart Eco ,5.0,,5.7,2.8,0.4,156.0,"Android OS, v7.0 (Nougat)",1,2,1,2,8.0,1.0,32,2300,,,4.0,,1.2,,"3,299"
+Karbonn Aura Sleek Plus ,5.0,,,,,,"Android OS, v7.0 (Nougat)",1,8,1,5,16.0,2.0,32,2000,,,4.0,,1.3,,"4,799"
+Karbonn K9 Music 4G ,5.0,,5.6,2.8,0.3,170.0,"Android OS, v7.0 (Nougat)",1,8,1,5,16.0,1.0,128,2200,,,4.0,,1.3,,"3,966"
+Karbonn Titanium Frames S7 ,5.5,,,,,,"AndroidOS, v7.0 (Nougat)",1,13,1,13,32.0,3.0,64,3000,,,4.0,,1.45,,"6,999"
+Karbonn A1 Indian 4G ,4.0,,,,,,"Android OS, v7.0 (Nougat)",1,3.2,1,2,8.0,1.0,32,1500,,,4.0,,1.1,,"2,790"
+Karbonn Aura 1 ,5.5,,,,,,"Android OS, 5.0 (Lollipop)",1,13,1,5,16.0,2.0,64,2600,,,8.0,,1.5,,"4,599"
+Karbonn Titanium Jumbo 2 4G ,5.5,,,,,,"Android OS, v7.0 (Nougat)",1,13,1,8,16.0,2.0,64,4000,,,4.0,,1.3,,"5,899"
+Karbonn Aura Note 4G ,5.5,,6.07,3.14,0.41,174.0,"Android OS, v6.0 (Marshmallow)",1,8,1,5,16.0,2.0,32,2800,MT6737,Cortex-A53,4.0,Mediatek ,1.2,Mali-T720MP2,"5,280"
+Karbonn A9 Indian 4G ,4.5,,,,,,"Android OS, v7.0 (Nougat)",1,5,1,5,8.0,1.0,32,1750,,,4.0,,1.3,,"2,999"

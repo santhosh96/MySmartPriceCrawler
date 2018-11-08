@@ -14,7 +14,7 @@ Spider for collecting data of smartphones of different brands from mysmartprice.
 ### Example spider:
 	
 	Root
-	|-->acer
-		|-->acer
-			|-->spiders
-				|-->mobile.py
+   	|-->acer
+   	    |-->acer
+   	    	|-->spiders
+   	    		|-->mobile.py	
